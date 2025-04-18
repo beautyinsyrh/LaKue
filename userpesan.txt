@@ -1,0 +1,21 @@
+Nama: akznxbh
+Email: akznavgh@gmail.com
+Telepon: 081234567890
+Alamat: Sidoarjo
+Kue: Tart Cake Coklat
+Jumlah: 1
+Catatan: Manisnya dikurangi
+Pengiriman: Grab Instan
+Tanggal: 2025-04-17 17:46:30
+---------------------------
+Nama: XYZAB
+Email: xyzab@gmail.com
+Telepon: 081234567890
+Alamat: Surabaya
+Kue: Chiffon Cake Coklat
+Jumlah: 1
+Catatan: delivery jam 16:00
+Pengiriman: Grab
+Tanggal: 2025-04-17 17:53:35
+---------------------------
+who|2025-04-18 13:37:56
